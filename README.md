@@ -1,13 +1,16 @@
 
 # ***devthumb***
 ---
+- Web Developer
+- DevOps
 
-### Tech
+### Skills
 ---
 <div>
 	<!-- Language & Framework -->
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java"  alt="Java" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="60" height="60"/>
+	<img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf"  alt="Thymeleaf" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gradle/gradle-original.svg" title="Gradle"  alt="Gradle" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maven/maven-original.svg" title="Maven"  alt="Maven" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="60" height="60"/>
@@ -39,6 +42,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" title="YAML"  alt="YAML" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-original.svg" title="XML"  alt="XML" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apachekafka/apachekafka-original.svg" title="Kafka"  alt="Kafka" width="60" height="60"/>
+	<img src="https://nifi.apache.org/images/apache-nifi-drop-logo.svg" title="Nifi"  alt="Nifi" width="60" height="60"/>
 	<img src="https://png2.cleanpng.com/sh/9b1376a2b2ded7b7e55399dc33e387e4/L0KzQYm3WME3N5t6iJH0aYP2gLBuTf1ia5pzjNH8aD3ygLb5ggRqdpgyiAt8dHXwg370gfNwe15rgdDtZYKwc7F0kQV1baMyettseXPvdX7tjCIugZD6ip92aX7nPYbpV8U5OWhnSdgBY3W1Poq5Vsc0PWY1Sac8NES1R4a4VcEzQGgziNDw/kisspng-macintosh-operating-systems-macos-finder-computer-bicycle-for-your-mind-5b75817b1f6ce2.9267355015344275151287.png" title="MacOS"  alt="MacOS" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unix/unix-original.svg" title="Unix"  alt="Unix" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="60" height="60"/>
@@ -62,35 +66,19 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/envoy/envoy-original.svg" title="Envoy"  alt="Envoy" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/cncf/artwork/9def8b1c9c988d053b82be7d82c5a92f3ec7f54a/projects/istio/icon/color/istio-icon-color.svg" title="Istio"  alt="Istio" width="60" height="60"/>
-	
-
 </div>
 
 ### Tools
 <div>
-	<!--DBMS -->
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" title="Eclipse"  alt="Eclipse" width="60" height="60"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" title="Vscode"  alt="Vscode" width="60" height="60"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="Intellij"  alt="Intellij" width="60" height="60"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/datagrip/datagrip-original.svg" title="Datagrip"  alt="Datagrip" width="60" height="60"/>
+	<img src="https://github.com/devthumb/devthumb/blob/main/img/nosqlbooster.png?raw=true" title="NoSQLBooster"  alt="NoSQLBooster" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" title="Dbeaver"  alt="Dbeaver" width="60" height="60"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/putty/putty-original.svg" title="Putty"  alt="Putty" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/filezilla/filezilla-original.svg" title="FileZila"  alt="FileZila" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firefox/firefox-original.svg" title="Firefox"  alt="Firefox" width="60" height="60"/>
-	
+	<img src="https://github.com/devthumb/devthumb/blob/main/img/obsidian.png?raw=true" title="Obsidian"  alt="Obsidian" width="60" height="60"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg" title="Notion"  alt="Notion" width="60" height="60"/>
 </div>
-
-
-
-
-
-
-<!--
-**devthumb/devthumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
