@@ -1,10 +1,10 @@
-# ***devthumb***
+# ***devthumb*** 
 ---
-- Web Developer
-- DevOps Engineer
-- [DockerHub](https://hub.docker.com/u/devthumb)
+- Web Developer 👍
+- DevOps Engineer 🧑🏽‍💻
+- [DokcerHub](https://hub.docker.com/u/devthumb) 📎
 
-### ***Skills***
+### 📚 ***Skills***
 ---
 <div>
 	<!-- Language & Framework -->
@@ -68,7 +68,7 @@
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/istio.svg" title="Istio"  alt="Istio" width="60" height="60"/>
 </div>
 
-### ***Tools***
+### 🛠️ ***Tools***
 <div>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/eclipse.svg" title="Eclipse"  alt="Eclipse" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/vscode.svg" title="Vscode"  alt="Vscode" width="60" height="60"/>
@@ -82,3 +82,5 @@
 	<img src="https://github.com/devthumb/devthumb/blob/main/img/obsidian.png?raw=true" title="Obsidian"  alt="Obsidian" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/notion.svg" title="Notion"  alt="Notion" width="60" height="60"/>
 </div>
+
+### 🏅 ***Career***
