@@ -2,7 +2,7 @@
 # ***devthumb***
 ---
 - Web Developer
-- DevOps
+- DevOps Engineer
 
 ### Skills
 ---
