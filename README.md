@@ -4,7 +4,6 @@
 - DevOps Engineer 🧑🏽‍💻
 - [DokcerHub](https://hub.docker.com/u/devthumb) 📎
 
-
 ## 📚 ***Skills***
 ---
 <div>
