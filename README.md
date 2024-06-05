@@ -92,18 +92,19 @@
 ### 🧑🏿‍🌾 ***Farm*** 
 ---
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/devthumb"
+    src="https://render.gitanimals.org/lines/devthumb?pet-id=586049380900232822"
     width="1000"
-    height="200"
+    height="120"
   />
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/devthumb"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>
