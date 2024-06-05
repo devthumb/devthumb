@@ -91,11 +91,13 @@
 
 ### 🧑🏿‍🌾 ***Farm*** 
 ---
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/devthumb"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/devthumb"
+    width="1000"
+    height="200"
+  />
 </a>
+  
 
