@@ -42,7 +42,7 @@
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/e804712559abcf77b79ba769a8acd246a62fd71e/img/json.svg" title="JSON"  alt="JSON" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/e804712559abcf77b79ba769a8acd246a62fd71e/img/yaml.svg" title="YAML"  alt="YAML" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/e804712559abcf77b79ba769a8acd246a62fd71e/img/xml.svg" title="XML"  alt="XML" width="60" height="60"/>
-	<img src="https://raw.githubusercontent.com/devthumb/devthumb/e804712559abcf77b79ba769a8acd246a62fd71e/img/apachekafka.svg" title="Kafka"  alt="Kafka" width="60" height="60"/>
+	<img src="https://raw.githubusercontent.com/devthumb/devthumb/refs/heads/main/img/kafka2.svg" title="Kafka"  alt="Kafka" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/nifi.svg" title="Nifi"  alt="Nifi" width="60" height="60"/>
 	<img src="https://github.com/devthumb/devthumb/blob/main/img/macos.png?raw=true" title="MacOS"  alt="MacOS" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/unix.svg" title="Unix"  alt="Unix" width="60" height="60"/>
