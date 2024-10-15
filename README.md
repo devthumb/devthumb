@@ -8,6 +8,7 @@
 ---
 <div>
 	<!-- Language & Framework -->
+	<!-- https://github.com/tandpfun/skill-icons/tree/main/icons -->
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/e804712559abcf77b79ba769a8acd246a62fd71e/img/java.svg" title="Java"  alt="Java" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/e804712559abcf77b79ba769a8acd246a62fd71e/img/spring.svg" title="Spring"  alt="Spring" width="60" height="60"/>
 	<img src="https://github.com/devthumb/devthumb/blob/main/img/thymeleaf.png?raw=true" title="Thymeleaf"  alt="Thymeleaf" width="60" height="60"/>
