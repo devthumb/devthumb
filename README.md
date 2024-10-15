@@ -67,7 +67,10 @@
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/jenkins.svg" title="Jenkins"  alt="Jenkins" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/envoy.svg" title="Envoy"  alt="Envoy" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devthumb/devthumb/38bc8e5dfca1ff9e3b57a26ee625b1164dd8eeaf/img/istio.svg" title="Istio"  alt="Istio" width="60" height="60"/>
-	<img src="https://raw.githubusercontent.com/devthumb/devthumb/refs/heads/main/img/firebase.svg" title="Firebase"  alt="Firebase" width="60" height="60"/>
+	<img src="https://raw.githubusercontent.com/devthumb/devthumb/refs/heads/main/img/firebase.svg" title="Firebase" alt="Firebase" width="60" height="60"/>
+ 	<img src="https://github.com/devthumb/devthumb/blob/main/img/grpc.png" title="gRPC" alt="gRPC" width="60" height="60"/>
+
+
 	
 </div>
 
