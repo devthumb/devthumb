@@ -1,4 +1,4 @@
-# ***devthumb*** 
+# ***dev.thumb*** 
 ---
 - Web Developer 👍
 - DevOps Engineer 🧑🏽‍💻
