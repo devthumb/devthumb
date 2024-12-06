@@ -111,7 +111,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/devthumb"
+  src="https://render.gitanimals.org/farms/devthumb?loading"
   width="1000"
   height="300"
 />
